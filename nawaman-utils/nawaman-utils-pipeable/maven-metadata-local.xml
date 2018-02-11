@@ -3,10 +3,11 @@
   <groupId>nawaman-utils</groupId>
   <artifactId>nawaman-utils-pipeable</artifactId>
   <versioning>
-    <release>0.2.0</release>
+    <release>unspecified</release>
     <versions>
       <version>0.2.0</version>
+      <version>unspecified</version>
     </versions>
-    <lastUpdated>20180210231213</lastUpdated>
+    <lastUpdated>20180211022050</lastUpdated>
   </versioning>
 </metadata>
