@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>functionalj</groupId>
-  <artifactId>functionalj-types-tests</artifactId>
+  <artifactId>functionalj-examples</artifactId>
   <versioning>
     <release>0.1.60-DEV.0</release>
     <versions>
