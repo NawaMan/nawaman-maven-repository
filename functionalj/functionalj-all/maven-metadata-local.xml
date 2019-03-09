@@ -18,6 +18,10 @@
       <version>0.1.65.0</version>
       <version>0.1.65-DEV.0</version>
     </versions>
+<<<<<<< HEAD
     <lastUpdated>20190225221239</lastUpdated>
+=======
+    <lastUpdated>20190309211554</lastUpdated>
+>>>>>>> Development
   </versioning>
 </metadata>
