@@ -3,7 +3,7 @@
   <groupId>functionalj</groupId>
   <artifactId>functionalj-core</artifactId>
   <versioning>
-    <release>0.1.65-DEV.0</release>
+    <release>0.1.66-DEV.0</release>
     <versions>
       <version>0.1.36.0</version>
       <version>0.1.37.0</version>
@@ -40,11 +40,8 @@
       <version>0.1.64.0</version>
       <version>0.1.65.0</version>
       <version>0.1.65-DEV.0</version>
+      <version>0.1.66-DEV.0</version>
     </versions>
-<<<<<<< HEAD
-    <lastUpdated>20190225221239</lastUpdated>
-=======
-    <lastUpdated>20190309211555</lastUpdated>
->>>>>>> Development
+    <lastUpdated>20190310070058</lastUpdated>
   </versioning>
 </metadata>
