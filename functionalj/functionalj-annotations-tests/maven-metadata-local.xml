@@ -3,11 +3,12 @@
   <groupId>functionalj</groupId>
   <artifactId>functionalj-annotations-tests</artifactId>
   <versioning>
-    <release>0.1.60.0</release>
+    <release>unspecified</release>
     <versions>
       <version>0.1.59.0</version>
       <version>0.1.60.0</version>
+      <version>unspecified</version>
     </versions>
-    <lastUpdated>20190131154048</lastUpdated>
+    <lastUpdated>20190604013413</lastUpdated>
   </versioning>
 </metadata>
